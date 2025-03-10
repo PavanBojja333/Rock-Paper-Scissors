@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors
 Rock Paper Scissors 🎮
+
 A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against the computer and test your luck!
 
 Features
@@ -12,7 +13,10 @@ Technologies Used
 HTML – Structure
 CSS – Styling
 JavaScript – Game logic
+
+
 How to Play?
+
 Choose Rock, Paper, or Scissors.
 The computer randomly selects its choice.
 The winner is decided based on:
