@@ -6,8 +6,11 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play aga
 Features
 
 ✅ User vs. Computer gameplay
+
 ✅ Randomized computer choices
+
 ✅ Score tracking
+
 ✅ Responsive design
 
 Technologies Used
